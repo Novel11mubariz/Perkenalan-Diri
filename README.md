@@ -149,7 +149,7 @@ The fact is, i'm just an ordinary boy, with an ordinary life, and im so grateful
   </div>
 
   <footer>
-    &copy; Sekian terimakasih
+    &copy; Yugha Developer
   </footer>
 
   <script>
